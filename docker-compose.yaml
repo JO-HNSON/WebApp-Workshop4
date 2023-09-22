@@ -71,5 +71,7 @@ networks:
             config:
                 - subnet: 30.7.0.0/16
 
+               
+
 volumes:
     ucWorkshopPgData:
